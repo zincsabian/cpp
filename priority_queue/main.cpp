@@ -4,6 +4,7 @@
 #include <queue>
 #include <functional>
 #include <algorithm>
+#include <memory>
 
 // luogu P3378 【模板】堆
 
