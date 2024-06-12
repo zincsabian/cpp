@@ -1,3 +1,11 @@
+# bin
 main
 test
+
+# test
 test.cpp
+*.dSYM
+
+# data
+*.in
+*.out
