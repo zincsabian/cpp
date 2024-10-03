@@ -9,3 +9,6 @@ test.cpp
 # data
 *.in
 *.out
+
+# vscode
+.vscode/
